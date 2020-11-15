@@ -30,8 +30,8 @@
 ## 11月12日
 吉岡さんの提出ファイル  
 ファイル名:yoshioka_XGBoost_Regressor_2986  
-スコア:RMSE=2,986.8891764
-![yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
+スコア:RMSE=2,986.8891764  
+[yoshioka_XGBoost_Regressor_2986.ipynb](/モデル格納ファイル/yoshioka_XGBoost_Regressor_2986.ipynb)
 
 ### 工夫点  
 ・説明変数ごとのyの平均や合計のランキングを見てランキング列を作成。  
