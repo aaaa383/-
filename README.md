@@ -3,8 +3,8 @@
 
 ## 11月9日  
 吉岡さんの提出ファイル  
-yoshioka_Linear_Regression  
-RMSE= 3,305.1153812  
+ファイル名:yoshioka_Linear_Regression  
+スコア:RMSE= 3,305.1153812  
 ![yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_XGBoost_Regressor_2986.ipynb)
 
 ### 工夫点
@@ -16,8 +16,8 @@ RMSE= 3,305.1153812
 
 ## 11月10日
 傍示の提出ファイル
-J1とJ2でモデル分割.ipynb  
-RMSE = 3324.3960363  
+ファイル名:J1とJ2でモデル分割.ipynb  
+スコア:RMSE = 3324.3960363  
 ![J1とJ2でモデル分割.ipynb](/モデル格納ファイル/J1とJ2でモデル分割.ipynb)
 
 ### 工夫点
@@ -29,15 +29,16 @@ RMSE = 3324.3960363
 
 ## 11月12日
 吉岡さんの提出ファイル    　
-yoshioka_XGBoost_Regressor_2986  
-RMSE=2,986.8891764
+ファイル名:yoshioka_XGBoost_Regressor_2986  
+スコア:RMSE=2,986.8891764
 
 ### 工夫点  
 ・説明変数ごとのyの平均や合計のランキングを見てランキング列を作成。  
 ・平日に試合が行われている試合を'平日'とした曜日列の作成。  
 ・テレビの放送数列の作成。  
 ・'away'をワンホットエンコーディングではなく、yの値でランキング化した列として追加しました。      
-・https://todo-ran.com/t/kiji/19639　から都道府県別の25歳以上のサッカー人口のcsvを作成して利用。  
+・https://todo-ran.com/t/kiji/19639　  
+から都道府県別の25歳以上のサッカー人口のcsvを作成して利用。  
 ・XGBoostのモデルを作成  
 ・私がLinear Regressionで作成した特徴量の使いまわし  
 ・上記に加えて、各スタジアムのcapaに対する収容人数の比率変数を作成  
