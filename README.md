@@ -5,9 +5,9 @@
 吉岡さんの提出ファイル  
 ファイル名:yoshioka_Linear_Regression  
 スコア:RMSE= 3,305.1153812  
-[yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
-[yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
-[yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
+[yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)  
+[fifa2014mem.csv](/データセット/fifa2014mem.csv)  
+[player_prefecture](/データセット/player_prefecture.csv)  
 
 ### 工夫点
 ・説明変数ごとのyの平均や合計のランキングを見てランキング列を作成。  
