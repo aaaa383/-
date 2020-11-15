@@ -5,7 +5,9 @@
 吉岡さんの提出ファイル  
 ファイル名:yoshioka_Linear_Regression  
 スコア:RMSE= 3,305.1153812  
-![yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
+[yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
+[yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
+[yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
 
 ### 工夫点
 ・説明変数ごとのyの平均や合計のランキングを見てランキング列を作成。  
@@ -18,7 +20,7 @@
 傍示の提出ファイル  
 ファイル名:J1とJ2でモデル分割.ipynb  
 スコア:RMSE = 3324.3960363  
-![J1とJ2でモデル分割.ipynb](/モデル格納ファイル/J1とJ2でモデル分割.ipynb)
+[J1とJ2でモデル分割.ipynb](/モデル格納ファイル/J1とJ2でモデル分割.ipynb)
 
 ### 工夫点
 ・J1とJ2でそれぞれ異なるモデルを作成  
