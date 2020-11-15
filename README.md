@@ -2,10 +2,10 @@
 # データサイエンティスト養成講座　Jリーグコンペ
 
 ## 11月9日  
-吉岡さんの提出ファイル 
-yoshioka_Linear_Regression 
+吉岡さんの提出ファイル  
+yoshioka_Linear_Regression  
 RMSE= 3,305.1153812  
-![](/image/test.png)
+![yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_XGBoost_Regressor_2986.ipynb)
 
 ### 工夫点
 ・説明変数ごとのyの平均や合計のランキングを見てランキング列を作成。  
