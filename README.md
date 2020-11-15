@@ -2,7 +2,8 @@
 データサイエンティスト養成講座　Jリーグコンペ
 
 # 11月12日
-吉岡さんの提出ファイル  　yoshioka_XGBoost_Regressor_2986
+吉岡さんの提出ファイル    　
+yoshioka_XGBoost_Regressor_2986  
 RMSE=2,986.8891764
 
 ## 工夫点  
