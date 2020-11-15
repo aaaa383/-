@@ -5,7 +5,7 @@
 吉岡さんの提出ファイル 
 yoshioka_Linear_Regression 
 RMSE= 3,305.1153812  
-
+![](/image/test.png)
 
 ### 工夫点
 ・説明変数ごとのyの平均や合計のランキングを見てランキング列を作成。  
