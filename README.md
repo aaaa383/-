@@ -5,7 +5,7 @@
 吉岡さんの提出ファイル  
 ファイル名:yoshioka_Linear_Regression  
 スコア:RMSE= 3,305.1153812  
-![yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_XGBoost_Regressor_2986.ipynb)
+![yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
 
 ### 工夫点
 ・説明変数ごとのyの平均や合計のランキングを見てランキング列を作成。  
@@ -31,6 +31,7 @@
 吉岡さんの提出ファイル  
 ファイル名:yoshioka_XGBoost_Regressor_2986  
 スコア:RMSE=2,986.8891764
+![yoshioka_Linear_Regression](/モデル格納ファイル/yoshioka_Linear_Regression.ipynb)
 
 ### 工夫点  
 ・説明変数ごとのyの平均や合計のランキングを見てランキング列を作成。  
