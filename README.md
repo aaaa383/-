@@ -56,6 +56,6 @@
 ## 11月25日
 吉岡さんの提出ファイル   
 ファイル名:yoshioka_CatBoost_Regressor_2745,yoshioka_Linear_Regression_2960,yoshioka_XGBoost_Regressor_2957   
-[yoshioka_CatBoost_Regressor_2745.ipynb](/データセット/yoshioka_CatBoost_Regressor_2745.ipynb)  
-[yoshioka_Linear_Regression_2960](/データセット/yoshioka_Linear_Regression_2960.ipynb)  
-[yoshioka_XGBoost_Regressor_2957](/データセット/yoshioka_XGBoost_Regressor_2957.ipynb)  
+[yoshioka_CatBoost_Regressor_2745.ipynb](/モデル格納ファイル/yoshioka_CatBoost_Regressor_2745.ipynb)  
+[yoshioka_Linear_Regression_2960](/モデル格納ファイル/yoshioka_Linear_Regression_2960.ipynb)  
+[yoshioka_XGBoost_Regressor_2957](/モデル格納ファイル/yoshioka_XGBoost_Regressor_2957.ipynb)  
